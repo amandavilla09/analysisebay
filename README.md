@@ -26,8 +26,8 @@ El análisis se ha llevado a cabo en Python, dentro del entorno Google Colab.
 
 ## Información académica
 
-Trabajo realizado para el Grado en **Gestión de la Información y Contenidos Digitales**,  
-📚 Universidad de Murcia  
-📅 Curso 2024/2025  
-👤 Autora: Amanda Villacrés Acosta
+Trabajo de Fin de Grado para el Grado en **Gestión de la Información y Contenidos Digitales**,  
+Universidad de Murcia  
+Curso 2024/2025  
+Autora: Amanda Villacrés Acosta
 
